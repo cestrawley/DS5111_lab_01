@@ -1,0 +1,4 @@
+#Makefile
+default:
+	cat: Makefile
+
